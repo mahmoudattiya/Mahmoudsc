@@ -1,0 +1,8 @@
+# robots.txt لمحمود محمد عطيه
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://mahmoudattiya.github.io/Mahmoudsc/sitemap.xml
